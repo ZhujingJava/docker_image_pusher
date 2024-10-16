@@ -1,6 +1,7 @@
 nginx
 #支持私库
 jenkins/jenkins
+openjdk:21
 sonatype/nexus
 sonatype/nexus3
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
