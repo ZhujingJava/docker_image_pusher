@@ -1,5 +1,6 @@
 #sath89/oracle-xe-11g
-deepdiver/docker-oracle-xe-11g
+#deepdiver/docker-oracle-xe-11g
+gvenzl/oracle-xe:11
 nginx
 #支持私库
 jenkins/jenkins
