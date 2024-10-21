@@ -1,14 +1,16 @@
-bitnami/mysql:8.0
-#sath89/oracle-xe-11g
+#bitnami/mysql:8.0
+##sath89/oracle-xe-11g
 #deepdiver/docker-oracle-xe-11g
-gvenzl/oracle-xe:11
-nginx
+#gvenzl/oracle-xe:11
+#nginx
 #支持私库
-jenkins/jenkins
-alpine:3
-sonatype/nexus
-sonatype/nexus3
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#jenkins/jenkins
+#alpine:3
+#sonatype/nexus
+#sonatype/nexus3
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+bitnami/minio
