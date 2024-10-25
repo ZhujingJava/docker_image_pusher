@@ -1,3 +1,6 @@
+bitnami/prometheus
+bitnami/mysqld-exporter
+bitnami/node-exporter
 #bitnami/mysql:8.0
 ##sath89/oracle-xe-11g
 #deepdiver/docker-oracle-xe-11g
@@ -13,4 +16,4 @@
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-bitnami/minio
+#bitnami/minio
