@@ -1,3 +1,4 @@
+grafana/grafana
 bitnami/prometheus
 bitnami/mysqld-exporter
 bitnami/node-exporter
