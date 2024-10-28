@@ -1,7 +1,8 @@
-grafana/grafana
-bitnami/prometheus
-bitnami/mysqld-exporter
-bitnami/node-exporter
+alpine/ansible
+#grafana/grafana
+#bitnami/prometheus
+#bitnami/mysqld-exporter
+#bitnami/node-exporter
 #bitnami/mysql:8.0
 ##sath89/oracle-xe-11g
 #deepdiver/docker-oracle-xe-11g
