@@ -1,3 +1,4 @@
+calico/pod2daemon-flexvol:v3.28.0
 alpine/ansible
 #grafana/grafana
 #bitnami/prometheus
