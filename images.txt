@@ -1,3 +1,4 @@
+openvpn/openvpn-as
 kylemanna/openvpn
 calico/cni:v3.28.0
 calico/kube-controllers:v3.28.0
