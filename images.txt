@@ -1,3 +1,4 @@
+busybox:glibc
 owncloud/server:10.15.0
 owncloud/server:10.14.0
 openvpn/openvpn-as
