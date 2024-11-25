@@ -1,5 +1,6 @@
-mariadb:10.11
-redis:6
+openspug/spug-service
+#mariadb:10.11
+#redis:6
 #busybox:glibc
 #owncloud/server:10.15.0
 #owncloud/server:10.14.0
