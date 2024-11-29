@@ -1,4 +1,5 @@
-openspug/spug-service
+truevoly/oracle-12c
+#openspug/spug-service
 #mariadb:10.11
 #redis:6
 #busybox:glibc
