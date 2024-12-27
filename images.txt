@@ -1,4 +1,5 @@
-bitnami/postgresql
+bitnami/alertmanager:0
+#bitnami/postgresql
 #bitnami/sonarqube
 #rook/ceph:v1.15.6
 #truevoly/oracle-12c
