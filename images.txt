@@ -1,4 +1,5 @@
-bitnami/alertmanager:0
+grafana/promtail
+#bitnami/alertmanager:0
 #bitnami/postgresql
 #bitnami/sonarqube
 #rook/ceph:v1.15.6
