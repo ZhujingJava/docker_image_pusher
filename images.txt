@@ -1,4 +1,6 @@
 grafana/promtail
+bitnami/mysqld-exporter
+bitnami/node-exporter
 #bitnami/alertmanager:0
 #bitnami/postgresql
 #bitnami/sonarqube
