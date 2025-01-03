@@ -1,4 +1,5 @@
-grafana/loki
+google/cadvisor
+#grafana/loki
 #grafana/promtail
 #bitnami/mysqld-exporter
 #bitnami/node-exporter
