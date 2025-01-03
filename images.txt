@@ -1,4 +1,5 @@
-redis
+#redis
+redis:7.0.10
 #google/cadvisor
 #grafana/loki
 #grafana/promtail
