@@ -1,7 +1,8 @@
-ejiyuan/openjdk:21-jdk-alpine
+#ejiyuan/openjdk:21-jdk-alpine
 #grafana/promtail:2.9.1
 #redis
 #redis:7.0.10
+grafana/loki:2.9.1
 #google/cadvisor
 #grafana/loki
 prom/mysqld-exporter:v0.15.0
