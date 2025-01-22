@@ -2,10 +2,10 @@
 #grafana/promtail:2.9.1
 #redis
 #redis:7.0.10
-grafana/loki:2.9.1
+grafana/loki:3.3.2
 #google/cadvisor
 #grafana/loki
-prom/mysqld-exporter:v0.15.0
+#prom/mysqld-exporter:v0.15.0
 #grafana/promtail
 #bitnami/mysqld-exporter
 #bitnami/node-exporter
