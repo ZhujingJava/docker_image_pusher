@@ -1,4 +1,5 @@
-rook/ceph:v1.5.12
+mysql:8.0.33
+#rook/ceph:v1.5.12
 #ejiyuan/openjdk:21-jdk-alpine
 #grafana/promtail:2.9.1
 #redis
