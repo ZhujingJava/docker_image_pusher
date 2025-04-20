@@ -1,5 +1,6 @@
-python:3.9
-python:3.8.20
+python:3.9.18
+#python:3.9
+#python:3.8.20
 #perconalab/percona-xtrabackup:8.0
 #mysql:8.0.33
 #rook/ceph:v1.5.12
@@ -36,7 +37,7 @@ python:3.8.20
 #bitnami/prometheus
 #bitnami/mysqld-exporter
 #bitnami/node-exporter
-bitnami/mysql:8.0
+#bitnami/mysql:8.0
 ##sath89/oracle-xe-11g
 #deepdiver/docker-oracle-xe-11g
 #gvenzl/oracle-xe:11
@@ -49,6 +50,6 @@ bitnami/mysql:8.0
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
 
 #bitnami/minio
