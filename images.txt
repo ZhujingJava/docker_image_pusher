@@ -1,5 +1,5 @@
-multiarch/qemu-user-static:register
-#hxsoong/kylin:v10-sp1
+#multiarch/qemu-user-static:register
+--platform=linux/arm64 hxsoong/kylin:v10-sp1
 #python:3.9.18-alpine
 #python:3.9.18
 #python:3.9
