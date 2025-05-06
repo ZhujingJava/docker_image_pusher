@@ -1,4 +1,5 @@
-percona/percona-server:8.0.41
+busybox:latest
+#percona/percona-server:8.0.41
 #percona/percona-server:8.0.33-25
 #multiarch/qemu-user-static:register
 #--platform=linux/arm64 hxsoong/kylin:v10-sp1
