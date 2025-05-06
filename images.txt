@@ -1,4 +1,5 @@
-busybox:latest
+mysql:8.0.40
+#busybox:latest
 #percona/percona-server:8.0.41
 #percona/percona-server:8.0.33-25
 #multiarch/qemu-user-static:register
