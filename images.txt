@@ -1,4 +1,5 @@
-mysql:8.0.40
+quay.io/cephcsi/cephcsi:canary
+#mysql:8.0.40
 #busybox:latest
 #percona/percona-server:8.0.41
 #percona/percona-server:8.0.33-25
