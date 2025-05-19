@@ -1,7 +1,8 @@
-bitnami/acmesolver:1.15.0-debian-12-r0
-bitnami/cainjector:1.15.0-debian-12-r0
-bitnami/cert-manager:1.15.0-debian-12-r1
-bitnami/cert-manager-webhook:1.15.0-debian-12-r0
+pragkent/alidns-webhook:0.1.1
+#bitnami/acmesolver:1.15.0-debian-12-r0
+##bitnami/cainjector:1.15.0-debian-12-r0
+#bitnami/cert-manager:1.15.0-debian-12-r1
+#bitnami/cert-manager-webhook:1.15.0-debian-12-r0
 #quay.io/cephcsi/cephcsi:canary
 #mysql:8.0.40
 #busybox:latest
