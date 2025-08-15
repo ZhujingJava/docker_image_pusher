@@ -1,4 +1,5 @@
-node:24.3-alpine
+jenkins/jenkins:jdk21
+#node:24.3-alpine
 #langgenius/dify-api:1.4.0
 #langgenius/dify-api:1.4.0
 #langgenius/dify-web:1.4.0
