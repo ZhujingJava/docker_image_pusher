@@ -1,5 +1,6 @@
-
-nobodyiam/apollo-quick-start
+apolloconfig/apollo-configservice:2.4.0
+apolloconfig/apollo-adminservice:2.4.0
+#nobodyiam/apollo-quick-start
 #bitnami/kubectl:1.30
 #docker:28.3.3-dind
 #maven:3.9.11-eclipse-temurin-21
