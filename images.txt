@@ -1,4 +1,4 @@
-apolloconfig/apollo-configservice:2.4.0
+#apolloconfig/apollo-configservice:2.4.0
 apolloconfig/apollo-adminservice:2.4.0
 #nobodyiam/apollo-quick-start
 #bitnami/kubectl:1.30
