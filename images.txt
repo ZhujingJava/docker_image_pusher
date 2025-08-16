@@ -1,4 +1,6 @@
-bitnami/kubectl:1.30
+
+nobodyiam/apollo-quick-start
+#bitnami/kubectl:1.30
 #docker:28.3.3-dind
 #maven:3.9.11-eclipse-temurin-21
 #jenkins/jenkins:jdk21
