@@ -1,4 +1,5 @@
-node:16.20.2
+node:18.20.8
+#node:16.20.2
 #apolloconfig/apollo-portal:2.4.0
 #apolloconfig/apollo-configservice:2.4.0
 #apolloconfig/apollo-adminservice:2.4.0
