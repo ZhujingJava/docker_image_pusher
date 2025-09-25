@@ -1,4 +1,5 @@
-jenkins/inbound-agent:latest-jdk21
+bitnami/kaniko:1.25.1
+#jenkins/inbound-agent:latest-jdk21
 #node:14.21.3
 #node:18.20.8
 #node:16.20.2
