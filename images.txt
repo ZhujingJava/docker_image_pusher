@@ -1,3 +1,4 @@
+goharbor/prepare:v2.14.1
 percona/percona-xtrabackup:8.0.33-27
 #codecentric/spring-boot-admin:3.2.3
 node:12.14.0
