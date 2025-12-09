@@ -1,6 +1,9 @@
-kibana:8.19.8
-logstash:8.19.8
-
+#kibana:8.19.8
+#logstash:8.19.8
+apache/skywalking-oap-server:8.6.0-es7
+elasticsearch:7.6.2
+logstash:7.6.2
+kibana:7.6.2
 #elastic/elasticsearch:8.19.8
 #dockette/jdk8:latest
 #goharbor/prepare:v2.14.1
