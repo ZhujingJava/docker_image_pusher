@@ -1,4 +1,7 @@
-elastic/elasticsearch:8.19.8
+kibana:8.19.8
+logstash:8.19.8
+
+#elastic/elasticsearch:8.19.8
 #dockette/jdk8:latest
 #goharbor/prepare:v2.14.1
 #percona/percona-xtrabackup:8.0.33-27
