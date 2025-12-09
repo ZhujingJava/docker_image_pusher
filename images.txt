@@ -56,9 +56,9 @@ pragkent/alidns-webhook:0.1.1
 ##bitnami/cert-manager-webhook:1.15.0-debian-12-r0
 ##quay.io/cephcsi/cephcsi:canary
 ##mysql:8.0.40
-busybox:latest
+#busybox:latest
 ##percona/percona-server:8.0.41
-percona/percona-server:8.0.33-25
+#percona/percona-server:8.0.33-25
 ##multiarch/qemu-user-static:register
 ##--platform=linux/arm64 hxsoong/kylin:v10-sp1
 ##python:3.9.18-alpine
@@ -97,18 +97,18 @@ mariadb:10.11
 ##calico/node:v3.28.0
 ##calico/pod2daemon-flexvol:v3.28.0
 ##alpine/ansible
-grafana/grafana
-bitnami/prometheus
-bitnami/mysqld-exporter
-bitnami/node-exporter
-bitnami/mysql:8.0
+#grafana/grafana
+#bitnami/prometheus
+#bitnami/mysqld-exporter
+#bitnami/node-exporter
+#bitnami/mysql:8.0
 ###sath89/oracle-xe-11g
 ##deepdiver/docker-oracle-xe-11g
 ##gvenzl/oracle-xe:11
 nginx
 ##支持私库
 ##jenkins/jenkins
-alpine:3
+#alpine:3
 ##sonatype/nexus
 ##sonatype/nexus3
 ##k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
