@@ -1,5 +1,5 @@
-apache/skywalking-oap-server:8.9.1
-
+#apache/skywalking-oap-server:8.9.1
+apache/skywalking-ui:8.9.1
 #kibana:8.19.8
 #logstash:8.19.8
 #apache/skywalking-oap-server:8.6.0-es7
