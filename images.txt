@@ -1,5 +1,6 @@
+mysql:5.7
 #apache/skywalking-oap-server:8.9.1
-apache/skywalking-ui:8.9.1
+#apache/skywalking-ui:8.9.1
 #kibana:8.19.8
 #logstash:8.19.8
 #apache/skywalking-oap-server:8.6.0-es7
@@ -113,7 +114,7 @@ mariadb:10.11
 ###sath89/oracle-xe-11g
 ##deepdiver/docker-oracle-xe-11g
 ##gvenzl/oracle-xe:11
-nginx
+##nginx
 ##支持私库
 ##jenkins/jenkins
 #alpine:3
