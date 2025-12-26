@@ -1,4 +1,5 @@
-mysql:5.7
+rustdesk/rustdesk-server
+#mysql:5.7
 #apache/skywalking-oap-server:8.9.1
 #apache/skywalking-ui:8.9.1
 #kibana:8.19.8
