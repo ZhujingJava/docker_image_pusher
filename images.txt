@@ -1,4 +1,6 @@
-percona/percona-xtrabackup:8.0.33-27
+#percona/percona-xtrabackup:8.0.33-27
+gitlab/gitlab-ce:latest
+postgres:14.20
 #codecentric/spring-boot-admin:3.2.3
 #node:12.14.0
 #bitnami/kaniko:1.25.1
@@ -13,7 +15,7 @@ percona/percona-xtrabackup:8.0.33-27
 #bitnami/kubectl:1.30
 #docker:28.3.3-dind
 #maven:3.9.11-eclipse-temurin-21
-#jenkins/jenkins:jdk21
+jenkins/jenkins:jdk21
 #node:24.3-alpine
 #langgenius/dify-api:1.4.0
 #langgenius/dify-api:1.4.0
@@ -78,7 +80,7 @@ percona/percona-xtrabackup:8.0.33-27
 ##bitnami/node-exporter
 ##bitnami/alertmanager:0
 ##bitnami/postgresql
-##bitnami/sonarqube
+bitnami/sonarqube
 ##rook/ceph:v1.15.6
 ##truevoly/oracle-12c
 ##openspug/spug-service
