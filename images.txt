@@ -1,4 +1,4 @@
-mongodb:latest
+mongo:latest
 #eceasy/cli-proxy-api:latest
 #percona/percona-xtrabackup:8.0.33-27
 #gitlab/gitlab-ce:latest 
