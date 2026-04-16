@@ -1,4 +1,5 @@
-mongo:latest
+confluentinc/cp-kafka:8.0.0
+#mongo:latest
 #eceasy/cli-proxy-api:latest
 #percona/percona-xtrabackup:8.0.33-27
 #gitlab/gitlab-ce:latest 
